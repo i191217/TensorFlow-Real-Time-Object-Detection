@@ -1,2 +1,6 @@
 # TensorFlow-Real-Time-Object-Detection
-Real-time Object detection on Images and Videos using models such as EfficientDet, SSD MobileNet and FasterRCNN.
+Loading a suitable model from TensorFlow 2 Detection Model Zoo.
+
+Detecting multiple objects in images and real-time input video stream. 
+
+Performing object detection with models such as EfficientDet, SSD MobileNet and FasterRCNN.
